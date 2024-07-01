@@ -1,11 +1,11 @@
 ---
 title: activerecord-order-reverse
 tags:
-  - 'rails'
-  - 'activerecord'
+  - Rails
+  - ActiveRecord
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-07-02T01:57:21+09:00'
+id: ae0028e51cf3c40398ba
 organization_url_name: null
 slide: false
 ignorePublish: false
