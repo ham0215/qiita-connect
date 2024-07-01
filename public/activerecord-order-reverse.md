@@ -1,8 +1,9 @@
 ---
 title: activerecord-order-reverse
 tags:
-  - ''
-private: false
+  - 'rails'
+  - 'activerecord'
+private: true
 updated_at: ''
 id: null
 organization_url_name: null
